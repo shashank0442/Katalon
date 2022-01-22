@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "F8BD74173EB9AB80A4BE5668B8D5D6B1",
+  "keywordClasses": [
+    {
+      "name": "page.LandingPageScreen",
+      "keywordMethods": [
+        {
+          "name": "verifyHeaderText",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyDisplayTextViewText",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "tapOnDisplayTextViewButton",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

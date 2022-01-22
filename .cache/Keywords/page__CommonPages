@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "82F361B5E7E397AA4E629EC7514B43FD",
+  "keywordClasses": [
+    {
+      "name": "page.CommonPages",
+      "keywordMethods": [
+        {
+          "name": "tapOnSelendroidTestAppOKButton",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

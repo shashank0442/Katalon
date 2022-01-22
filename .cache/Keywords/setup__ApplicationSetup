@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "6E5C04AD80B398C8131EE56A2E32809D",
+  "keywordClasses": [
+    {
+      "name": "setup.ApplicationSetup",
+      "keywordMethods": [
+        {
+          "name": "launchApplication",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "closeApp",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
